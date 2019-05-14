@@ -1,0 +1,59 @@
+training with 10 characters
+8979 events found
+Event IDs: [1 2]
+sample drop: 6.370419868582244 %
+The best predictor is: Vect + RegLDA score:0.7534081284588879
+
+training with 9 characters
+8093 events found
+Event IDs: [1 2]
+sample drop: 6.338811318423332 %
+The best predictor is: Xdawn + RegLDA score:0.7369250157529931
+
+training with 8 characters
+7193 events found
+Event IDs: [1 2]
+sample drop: 6.520227999443906 %
+The best predictor is: Vect + RegLDA score:0.7568388505854462
+
+training with 7 characters
+6293 events found
+Event IDs: [1 2]
+sample drop: 6.70586365803274 %
+The best predictor is: Xdawn + RegLDA score:0.7374468476258891
+
+training with 6 characters
+5393 events found
+Event IDs: [1 2]
+sample drop: 6.823660300389389 %
+The best predictor is: ERPCov + MDM score:0.7359691264920023
+
+training with 5 characters
+4493 events found
+Event IDs: [1 2]
+sample drop: 7.166703761406634 %
+The best predictor is: Vect + RegLDA score:0.7615262751682397
+
+training with 4 characters
+3593 events found
+Event IDs: [1 2]
+sample drop: 7.51461174505984 %
+The best predictor is: ERPCov + MDM score:0.7548531289910599
+
+training with 3 characters
+2693 events found
+Event IDs: [1 2]
+sample drop: 8.057927961381361 %
+The best predictor is: Xdawn + RegLDA score:0.7654527938342968
+
+training with 2 characters
+1793 events found
+Event IDs: [1 2]
+sample drop: 9.146681539319578 %
+The best predictor is: Vect + RegLDA score:0.7832697914330568
+
+training with 1 characters
+895 events found
+Event IDs: [1 2]
+sample drop: 10.167597765363123 %
+The best predictor is: ERPCov + MDM score:0.7895710059171597
